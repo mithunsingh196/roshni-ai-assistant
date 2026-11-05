@@ -1,0 +1,6 @@
+{
+  "name": "Shikha ji - Voice Assistant",
+  "description": "A warm, polite, and witty Indian voice assistant speaking in Hinglish.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
